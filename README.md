@@ -1,2 +1,2 @@
-# kaggle
-A repository of all personal Kaggle submissions.
+# Kaggle Submission
+A repository for all my personal Kaggle submissions.
