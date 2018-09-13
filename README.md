@@ -1,5 +1,4 @@
 # Kaggle
-Jupyter notebooks and scripts with EDA and submissions for Kaggle challenges and datasets.
 
 - [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
   - [Notebook](https://www.kaggle.com/peterwhy25/titanic-machine-learning-from-disaster-soln)
