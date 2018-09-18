@@ -1,5 +1,5 @@
 # Kaggle
-The *kaggle* repository contains copies and links to Jupyter notebooks that contain the solution code that was submitted for competitions. Otherwise, the Jupyter notebook and dataset links are used for exploratory data analysis purposes.
+The *kaggle* repository contains copies and links to Jupyter notebooks that contain personal solution code submitted to Kaggle competitions. Otherwise, the Jupyter notebook and dataset links are used for exploratory data analysis purposes.
 
 ## Dataset(s) & Jupyter Notebooks
 
