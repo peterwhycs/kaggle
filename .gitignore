@@ -1,2 +1,2 @@
-kaggle_env/**
-.ipynb_checkpoints/**
+.ipynb_checkpoints/
+kaggle_env/
