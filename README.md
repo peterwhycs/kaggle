@@ -5,7 +5,7 @@ The *kaggle* repository contains copies and links to Jupyter notebooks that cont
 
 ### Kaggle Competitions:
   - [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
-    - [Titanic Disaster: Quick Start Solution (Jupyter Notebook)](https://www.kaggle.com/peterwhy25/titanic-machine-learning-from-disaster-soln)
+    - [(Jupyter Notebook) Titanic Disaster: Quick Start Solution](https://www.kaggle.com/peterwhy25/titanic-machine-learning-from-disaster-soln)
   - [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction) 
   
 ### Datasets:
