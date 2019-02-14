@@ -149,3 +149,4 @@ Pipfile.lock
 MSFT-malware-classification-challenge/data/
 new-york-city-taxi-trip-duration/data/
 quora-insincere-classification/data/
+mbti-dataset/mbti-data.csv
