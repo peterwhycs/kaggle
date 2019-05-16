@@ -150,6 +150,6 @@ Pipfile.lock
 data-science-for-good-city-of-los-angeles/
 gun-violence-dataset/
 mbti-dataset/
-MSFT-malware-classification-challenge/data/
-new-york-city-taxi-trip-duration/data/
-quora-insincere-classification/data/
+MSFT-malware-classification-challenge/
+new-york-city-taxi-trip-duration/
+quora-insincere-classification/
