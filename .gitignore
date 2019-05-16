@@ -146,7 +146,10 @@ Pipfile.lock
 .venv/
 
 # Data directories
+2016-us-election-dataset/
+data-science-for-good-city-of-los-angeles/
+gun-violence-dataset/
+mbti-dataset/
 MSFT-malware-classification-challenge/data/
 new-york-city-taxi-trip-duration/data/
 quora-insincere-classification/data/
-mbti-dataset/mbti-data.csv
