@@ -6,5 +6,5 @@ The *kaggle* repository contains copies and links to Jupyter notebooks that cont
 ### Kaggle Competitions:
   - [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
     - [(Jupyter Notebook) A Quick Start Guide for Kaggle's Titanic: Machine Learning from Disaster](titanic-machine-learning-from-disaster/titanic-disaster.ipynb)
-  - [https://www.kaggle.com/c/tmdb-box-office-prediction](https://www.kaggle.com/c/tmdb-box-office-prediction)
+  - [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
     - [(Jupyter Notebook) Predicting House Prices](house-prices-advanced-regression-techniques/notebook/predicting-house-prices.ipynb)
