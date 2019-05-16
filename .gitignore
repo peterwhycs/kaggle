@@ -148,8 +148,7 @@ Pipfile.lock
 # Data directories
 2016-us-election-dataset/
 data-science-for-good-city-of-los-angeles/
-gun-violence-dataset/
 mbti-dataset/
 MSFT-malware-classification-challenge/
 new-york-city-taxi-trip-duration/
-quora-insincere-classification/
+quora-insincere-questions-classification/
