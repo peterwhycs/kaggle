@@ -152,3 +152,4 @@ mbti-dataset/
 MSFT-malware-classification-challenge/
 new-york-city-taxi-trip-duration/
 quora-insincere-questions-classification/
+*.zip
