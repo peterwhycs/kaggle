@@ -462,4 +462,4 @@ OpenCover/
 tests/.cache/v/cache/lastfailed
 
 # Large data files
-kernels/ieee-fraud-detection/input/*
+kernels/ieee-fraud-detection/input/**/*.csv
