@@ -1,4 +1,4 @@
-# Kaggle Notebooks in Python
+# Kaggle Notebooks
 The *kaggle* repository contains to Jupyter notebooks (downloaded Kaggle kernels) that contain personal solution code submitted to Kaggle competitions. Otherwise, the Jupyter notebook and dataset links are used for exploratory data analysis purposes.
 
 ## Jupyter Notebooks & Datasets
