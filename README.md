@@ -5,4 +5,4 @@ The *kaggle* repository contains copies and links to Jupyter notebooks that cont
 
 ### Kaggle Competitions:
   - [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
-    - [(Jupyter Notebook) A Quick Start Guide for Kaggle's Titanic: Machine Learning from Disaster](titanic-machine-learning-from-disaster/titanic-disaster.ipynb)
+    - [(Jupyter Notebook) ML Workflow & Model Selection](kernels/titanic-machine-learning-from-disaster/notebook/titanic-disaster.ipynb)
