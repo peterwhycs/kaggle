@@ -1,5 +1,5 @@
 /* Modernizr 2.6.2 (Custom Build) | MIT & BSD
- * Build: http://modernizr.com/download/#-generatedcontent-touch-shiv-cssclasses-teststyles-prefixes-load
+ * Build: https://modernizr.com/download/#-generatedcontent-touch-shiv-cssclasses-teststyles-prefixes-load
  */
 (window.Modernizr = (function(a, b, c) {
     function x(a) {
